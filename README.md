@@ -4,14 +4,14 @@
 
 # It give you confidence + anytime, you can brush up programming skill by refering it
 
-# In this repo program are mostly from,
+# In this repo... program are mostly from,
 
 # Hackrank python Question 
 # And
 # Udacity AWS Machine Learning Foundation course, it is free
 
 
-# if you interested that course
+# if you are interested in course then
 # can follow below link
 # https://classroom.udacity.com/courses/ud090
 
